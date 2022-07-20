@@ -1,0 +1,22 @@
+{
+  "name": "my-gulp",
+  "version": "1.0.0",
+  "description": "getting-started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McCdama/Gulp.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mohammad ALRAHBI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McCdama/Gulp/issues"
+  },
+  "homepage": "https://github.com/McCdama/Gulp#readme"
+}
