@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/McCdama/Gulp/issues"
   },
-  "homepage": "https://github.com/McCdama/Gulp#readme"
+  "homepage": "https://github.com/McCdama/Gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
